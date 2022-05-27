@@ -69,4 +69,4 @@ https://github.com/Jnbanks
 joku.banks@gmail.com
 
 Link to demo video: https://drive.google.com/file/d/1G9-3FTOWfUxyaNXs2tyf7VXGy_Zg434T/view?usp=sharing 
-Link to Github repository:
+Link to Github repository: https://github.com/Jnbanks/social-network-api
